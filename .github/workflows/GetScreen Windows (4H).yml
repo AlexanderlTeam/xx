@@ -16,3 +16,6 @@ jobs:
 
       - name: Time Counter
         run: python time.py
+      - name: Time Counter2
+        run: python time.py
+        
